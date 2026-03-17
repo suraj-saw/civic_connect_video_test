@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1073538739777:android:cc42a109c340eccdd7a0c0",
+        "mobilesdk_app_id": "1:1073538739777:android:12c7b71e018cec62d7a0c0",
         "android_client_info": {
-          "package_name": "com.example.video_test_app"
+          "package_name": "com.example.civic_connect_video"
         }
       },
       "oauth_client": [],

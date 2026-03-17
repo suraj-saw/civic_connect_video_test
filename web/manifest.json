@@ -1,6 +1,6 @@
 {
-    "name": "video_test_app",
-    "short_name": "video_test_app",
+    "name": "civic_connect_video",
+    "short_name": "civic_connect_video",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
